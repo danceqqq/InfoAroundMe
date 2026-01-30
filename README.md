@@ -22,7 +22,7 @@ Information that I would like to share or save in one form or another
 
 <table>
 <tr>
-<td rowspan="21" style="text-align: center; vertical-align: top; padding-right: 20px;">
+<td rowspan="22" style="text-align: center; vertical-align: top; padding-right: 20px;">
 <img src="images/osu/avatar.jpg" alt="osu! Avatar" width="150"/>
 </td>
 <td colspan="2"><strong>Рейтинг</strong></td>
