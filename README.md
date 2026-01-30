@@ -140,64 +140,6 @@ Information that I would like to share or save in one form or another
 <td>152 игры</td>
 </tr>
 <tr>
-<td colspan="2"><strong>🏆 Топ-10 игр по времени</strong></td>
-</tr>
-<tr>
-<td><strong>1. Soundpad</strong></td>
-<td>1,704.3h | $4.99 | 94.56%</td>
-</tr>
-<tr>
-<td><strong>2. OBS Studio</strong></td>
-<td>805.3h | Free | 93.46%</td>
-</tr>
-<tr>
-<td><strong>3. Grand Theft Auto V Legacy</strong></td>
-<td>540.2h | No Price | 87.05%</td>
-</tr>
-<tr>
-<td><strong>4. Wallpaper Engine</strong></td>
-<td>510.1h | $4.99 | 97.27%</td>
-</tr>
-<tr>
-<td><strong>5. PUBG: BATTLEGROUNDS</strong></td>
-<td>482.4h | Free | 59.91%</td>
-</tr>
-<tr>
-<td><strong>6. AniCursor</strong></td>
-<td>458.8h | $1.59 | 80.44%</td>
-</tr>
-<tr>
-<td><strong>7. Counter-Strike 2</strong></td>
-<td>391.0h | Free | 86.04%</td>
-</tr>
-<tr>
-<td><strong>8. Bongo Cat</strong></td>
-<td>327.8h | Free | 96.13%</td>
-</tr>
-<tr>
-<td><strong>9. ShareX</strong></td>
-<td>271.0h | Free | 92.62%</td>
-</tr>
-<tr>
-<td><strong>10. tModLoader</strong></td>
-<td>200.0h | Free | 96.13%</td>
-</tr>
-<tr>
-<td colspan="2"><strong>🎖️ Значки</strong></td>
-</tr>
-<tr>
-<td><strong>Специальные значки</strong></td>
-<td>16</td>
-</tr>
-<tr>
-<td><strong>Обычные значки</strong></td>
-<td>52</td>
-</tr>
-<tr>
-<td><strong>Всего уровней значков</strong></td>
-<td>52</td>
-</tr>
-<tr>
 <td colspan="2"><strong>🔒 Статус аккаунта</strong></td>
 </tr>
 <tr>
