@@ -189,11 +189,7 @@ Information that I would like to share or save in one form or another
 
 ### The Elder Scrolls V: Skyrim Special Edition
 
-<div align="center">
-
-<img src="images/skyrim/skyrimlogo.jpg" alt="Skyrim Logo" width="360" style="border-radius: 6px;"/>
-
-</div>
+![Skyrim Logo](images/skyrim/skyrimlogo.jpg)
 
 <table style="width: 100%; max-width: 100%; border-collapse: collapse;">
 <tr>
