@@ -247,7 +247,11 @@ Information that I would like to share or save in one form or another
 
 ### The Elder Scrolls V: Skyrim Special Edition
 
-![Skyrim Logo](images/skyrim/skyrimlogo.jpg)
+<div align="center">
+
+<img src="images/skyrim/skyrimlogo.jpg" alt="Skyrim Logo" width="360" style="border-radius: 6px;"/>
+
+</div>
 
 <table>
 <tr>
@@ -262,7 +266,7 @@ Information that I would like to share or save in one form or another
 </tr>
 <tr>
 <td><strong>Логотип</strong></td>
-<td><img src="images/skyrim/rfab.png" alt="RFAB Logo" width="150"/></td>
+<td><img src="images/skyrim/rfab.png" alt="RFAB Logo" width="200" style="vertical-align: middle;"/></td>
 </tr>
 <tr>
 <td><strong>Версия</strong></td>
@@ -285,7 +289,7 @@ Information that I would like to share or save in one form or another
 </tr>
 <tr>
 <td><strong>Камень Хранитель</strong></td>
-<td style="vertical-align: middle;"><img src="images/skyrim/warrior.png" alt="Warrior Stone" style="vertical-align: middle; margin-right: 8px;" width="32" height="32"/> Воин</td>
+<td style="vertical-align: middle;"><img src="images/skyrim/warrior.png" alt="Warrior Stone" style="vertical-align: middle; margin-right: 8px;" width="180" height="180"/> Воин</td>
 </tr>
 </table>
 
