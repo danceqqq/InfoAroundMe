@@ -22,7 +22,7 @@ Information that I would like to share or save in one form or another
 
 <table>
 <tr>
-<td rowspan="12" style="text-align: center; vertical-align: top; padding-right: 20px;">
+<td rowspan="21" style="text-align: center; vertical-align: top; padding-right: 20px;">
 <img src="images/osu/avatar.jpg" alt="osu! Avatar" width="150"/>
 </td>
 <td colspan="2"><strong>Рейтинг</strong></td>
@@ -89,23 +89,38 @@ Information that I would like to share or save in one form or another
 <td colspan="2"><strong>Ранги</strong></td>
 </tr>
 <tr>
-<td>![Grade SS Silver](images/osu/GradeSmall-SS-Silver.6681366c.svg) <strong>SS (Silver)</strong></td>
-<td>0</td>
+<td style="vertical-align: middle;">
+<img src="images/osu/GradeSmall-SS-Silver.6681366c.svg" alt="SS Silver" style="vertical-align: middle; margin-right: 8px;" width="32" height="16"/>
+<strong>SS (Silver)</strong>
+</td>
+<td style="text-align: center; font-weight: bold;">0</td>
 </tr>
 <tr>
-<td>![Grade SS](images/osu/GradeSmall-SS.a21de890.svg) <strong>SS (Gold)</strong></td>
-<td>0</td>
+<td style="vertical-align: middle;">
+<img src="images/osu/GradeSmall-SS.a21de890.svg" alt="SS Gold" style="vertical-align: middle; margin-right: 8px;" width="32" height="16"/>
+<strong>SS (Gold)</strong>
+</td>
+<td style="text-align: center; font-weight: bold;">0</td>
 </tr>
 <tr>
-<td>![Grade S Silver](images/osu/GradeSmall-S-Silver.811ae28c.svg) <strong>S (Silver)</strong></td>
-<td>2</td>
+<td style="vertical-align: middle;">
+<img src="images/osu/GradeSmall-S-Silver.811ae28c.svg" alt="S Silver" style="vertical-align: middle; margin-right: 8px;" width="32" height="16"/>
+<strong>S (Silver)</strong>
+</td>
+<td style="text-align: center; font-weight: bold; color: #D4A574;">2</td>
 </tr>
 <tr>
-<td>![Grade S](images/osu/GradeSmall-S.3b4498a9.svg) <strong>S (Gold)</strong></td>
-<td>1</td>
+<td style="vertical-align: middle;">
+<img src="images/osu/GradeSmall-S.3b4498a9.svg" alt="S Gold" style="vertical-align: middle; margin-right: 8px;" width="32" height="16"/>
+<strong>S (Gold)</strong>
+</td>
+<td style="text-align: center; font-weight: bold; color: #D4A574;">1</td>
 </tr>
 <tr>
-<td>![Grade A](images/osu/GradeSmall-A.d785e824.svg) <strong>A</strong></td>
-<td>30</td>
+<td style="vertical-align: middle;">
+<img src="images/osu/GradeSmall-A.d785e824.svg" alt="A" style="vertical-align: middle; margin-right: 8px;" width="32" height="16"/>
+<strong>A</strong>
+</td>
+<td style="text-align: center; font-weight: bold; color: #D4A574;">30</td>
 </tr>
 </table>
