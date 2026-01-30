@@ -11,7 +11,7 @@ Information that I would like to share or save in one form or another
 **Steam ID:** 76561199216268050  
 **Profile:** [SteamDB Calculator](https://steamdb.info/calculator/76561199216268050/?cc=us)
 
-<table>
+<table style="width: 100%; max-width: 100%; border-collapse: collapse;">
 <tr>
 <td colspan="2"><strong>Основная информация</strong></td>
 </tr>
@@ -253,7 +253,7 @@ Information that I would like to share or save in one form or another
 
 </div>
 
-<table>
+<table style="width: 100%; max-width: 100%; border-collapse: collapse;">
 <tr>
 <td rowspan="9" style="text-align: center; vertical-align: top; padding-right: 30px; min-width: 250px; width: 250px;">
 <img src="images/skyrim/rikaturl.jpg" alt="Character Avatar" width="250" style="border-radius: 8px; display: block;"/>
@@ -413,12 +413,12 @@ Information that I would like to share or save in one form or another
 </tr>
 <tr>
 <td colspan="2" style="padding: 8px; vertical-align: middle;">
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; max-width: 100%; table-layout: fixed; border-collapse: collapse;">
 <tr style="background: #f5f5f5;">
-<td style="padding: 10px; width: 80px; vertical-align: middle;">
-<img src="images/osuakat/Ne%20Obliviscaris%20-%20Songs%20Compilation%20%5BThrough%20the%20Mist%20of%20Time%20the%20Crimson%20Hands%20Weave%20a%20World%20That%20Never%20Was%5D.jpg" alt="Map 1" width="80" height="60" style="border-radius: 4px; object-fit: cover;"/>
+<td style="padding: 8px; width: 72px; vertical-align: middle;">
+<img src="images/osuakat/Ne%20Obliviscaris%20-%20Songs%20Compilation%20%5BThrough%20the%20Mist%20of%20Time%20the%20Crimson%20Hands%20Weave%20a%20World%20That%20Never%20Was%5D.jpg" alt="Map 1" width="72" height="54" style="border-radius: 4px; object-fit: cover;"/>
 </td>
-<td style="padding: 10px; vertical-align: middle;">
+<td style="padding: 8px; vertical-align: middle; word-break: break-word; overflow-wrap: anywhere;">
 <strong>Ne Obliviscaris - Songs Compilation [Through the Mist of Time the Crimson Hands Weave a World That Never Was]</strong><br/>
 <small>1,121,750 / 797x / HDDTRX</small><br/>
 <strong style="color: #D4A574;">1,141pp</strong> | <strong>Accuracy: 96.31%</strong>
@@ -429,12 +429,12 @@ Information that I would like to share or save in one form or another
 </tr>
 <tr>
 <td colspan="2" style="padding: 8px; vertical-align: middle;">
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; max-width: 100%; table-layout: fixed; border-collapse: collapse;">
 <tr style="background: #f5f5f5;">
-<td style="padding: 10px; width: 80px; vertical-align: middle;">
-<img src="images/osuakat/Joyce%20Manor%20-%20NBTSA%20(Sped%20Up%20Ver.)%20%5Bcan%20i%20tell%20you%20a%20secret%5D.jpg" alt="Map 2" width="80" height="60" style="border-radius: 4px; object-fit: cover;"/>
+<td style="padding: 8px; width: 72px; vertical-align: middle;">
+<img src="images/osuakat/Joyce%20Manor%20-%20NBTSA%20(Sped%20Up%20Ver.)%20%5Bcan%20i%20tell%20you%20a%20secret%5D.jpg" alt="Map 2" width="72" height="54" style="border-radius: 4px; object-fit: cover;"/>
 </td>
-<td style="padding: 10px; vertical-align: middle;">
+<td style="padding: 8px; vertical-align: middle; word-break: break-word; overflow-wrap: anywhere;">
 <strong>Joyce Manor - NBTSA (Sped Up Ver.) [can i tell you a secret]</strong><br/>
 <small>86,030 / 165x / HDDTRX</small><br/>
 <strong style="color: #D4A574;">924pp</strong> | <strong>Accuracy: 95.46%</strong>
@@ -445,12 +445,12 @@ Information that I would like to share or save in one form or another
 </tr>
 <tr>
 <td colspan="2" style="padding: 8px; vertical-align: middle;">
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; max-width: 100%; table-layout: fixed; border-collapse: collapse;">
 <tr style="background: #f5f5f5;">
-<td style="padding: 10px; width: 80px; vertical-align: middle;">
-<img src="images/osuakat/VINXIS%20-%20Sidetracked%20Day%20%5BInfinity%20Inside%5D.jpg" alt="Map 3" width="80" height="60" style="border-radius: 4px; object-fit: cover;"/>
+<td style="padding: 8px; width: 72px; vertical-align: middle;">
+<img src="images/osuakat/VINXIS%20-%20Sidetracked%20Day%20%5BInfinity%20Inside%5D.jpg" alt="Map 3" width="72" height="54" style="border-radius: 4px; object-fit: cover;"/>
 </td>
-<td style="padding: 10px; vertical-align: middle;">
+<td style="padding: 8px; vertical-align: middle; word-break: break-word; overflow-wrap: anywhere;">
 <strong>VINXIS - Sidetracked Day [Infinity Inside]</strong><br/>
 <small>571,590 / 1,360x / HDDTRX</small><br/>
 <strong style="color: #D4A574;">893pp</strong> | <strong>Accuracy: 99.07%</strong>
