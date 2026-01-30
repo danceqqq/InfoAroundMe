@@ -230,7 +230,7 @@ Information that I would like to share or save in one form or another
 
 <div align="center">
 
-[<img src="images/ico/file-plus-alt-1-svgrepo-com.svg" alt="Additional Files" width="32" height="32" style="vertical-align: middle;"/> Additional Files](https://github.com/sofiles/nieroreplica)
+[<img src="images/ico/file-plus-alt-1-svgrepo-com.svg" alt="Additional Files" width="32" height="32" style="vertical-align: middle;"/> Additional Files](https://github.com/danceqqq/InfoAroundMe/tree/main/sofiles/nieroreplica)
 
 </div>
 
@@ -244,6 +244,50 @@ Information that I would like to share or save in one form or another
 | ![The Book of Legend](images/niero/The%20Book%20of%20Legend.jpg) **The Book of Legend** | Grimoire Weiss joined your party. | 80.4% игроков | 28 янв в 9:49 |
 | ![The Wild Companion](images/niero/The%20Wild%20Companion.jpg) **The Wild Companion** | Kainé joined your party. | 62.5% игроков | 30 янв в 9:03 |
 | ![Village Handyman](images/niero/Village%20Handyman.jpg) **Village Handyman** | You completed 10 quests. | 50.9% игроков | 29 янв в 11:53 |
+
+### The Elder Scrolls V: Skyrim Special Edition
+
+![Skyrim Logo](images/skyrim/skyrimlogo.jpg)
+
+<table>
+<tr>
+<td rowspan="9" style="text-align: center; vertical-align: top; padding-right: 30px; min-width: 250px; width: 250px;">
+<img src="images/skyrim/rikaturl.jpg" alt="Character Avatar" width="250" style="border-radius: 8px; display: block;"/>
+</td>
+<td colspan="2"><strong>Сборка</strong></td>
+</tr>
+<tr>
+<td><strong>Название</strong></td>
+<td>RFAB (Skyrim Requiem for a Balance)</td>
+</tr>
+<tr>
+<td><strong>Логотип</strong></td>
+<td><img src="images/skyrim/rfab.png" alt="RFAB Logo" width="150"/></td>
+</tr>
+<tr>
+<td><strong>Версия</strong></td>
+<td>RFAB от 27.01.2026</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Персонаж</strong></td>
+</tr>
+<tr>
+<td><strong>Имя персонажа</strong></td>
+<td><span style="color: #D4A574; font-size: 16px; font-weight: bold;">Рикатурл</span></td>
+</tr>
+<tr>
+<td><strong>Раса</strong></td>
+<td style="vertical-align: middle;"><img src="images/skyrim/argo.png" alt="Argonian" style="vertical-align: middle; margin-right: 8px;" width="32" height="32"/> Аргонианин</td>
+</tr>
+<tr>
+<td><strong>Сложность</strong></td>
+<td style="vertical-align: middle;"><img src="images/skyrim/dovakin.png" alt="Dovahkiin" style="vertical-align: middle; margin-right: 8px;" width="32" height="32"/> Довакин</td>
+</tr>
+<tr>
+<td><strong>Камень Хранитель</strong></td>
+<td style="vertical-align: middle;"><img src="images/skyrim/warrior.png" alt="Warrior Stone" style="vertical-align: middle; margin-right: 8px;" width="32" height="32"/> Воин</td>
+</tr>
+</table>
 
 ## osu!
 
