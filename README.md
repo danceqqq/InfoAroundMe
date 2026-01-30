@@ -228,6 +228,12 @@ Information that I would like to share or save in one form or another
 
 ![NieR Replicant Logo](images/niero/nierreplicantlogo.jpg)
 
+<div align="center">
+
+[<img src="images/ico/file-plus-alt-1-svgrepo-com.svg" alt="Additional Files" width="32" height="32" style="vertical-align: middle;"/> Additional Files](https://github.com/sofiles/nieroreplica)
+
+</div>
+
 #### Достижения
 
 | Достижение | Описание | Редкость | Дата получения |
