@@ -20,42 +20,92 @@ Information that I would like to share or save in one form or another
 
 ## osu!
 
-![osu! Avatar](images/osu/avatar.jpg)
-
-### Рейтинг
-
-| Показатель | Значение | Изменение |
-|------------|----------|-----------|
-| **Рейтинг в мире** | #379 185 | 44 дня назад: #594 911 |
-| **Рейтинг в стране** | #18 126 | - |
-
-### Основная статистика
-
-| Показатель | Значение |
-|------------|----------|
-| **Медалей** | 24 |
-| **pp (Performance Points)** | 2 415 |
-| **Времени в игре** | 1d 4h 47m |
-
-### Детальная статистика
-
-| Показатель | Значение |
-|------------|----------|
-| **Рейтинговые очки** | 444 775 955 |
-| **Точность попаданий** | 89.72% |
-| **Количество игр** | 1 978 |
-| **Всего очков** | 1 860 512 692 |
-| **Всего попаданий** | 448 909 |
-| **Попаданий в среднем за игру** | 226 |
-| **Максимальное комбо** | 647 |
-| **Просмотров записей игр другими** | 0 |
-
-### Ранги
-
-| Ранг | Иконка | Описание |
-|------|--------|----------|
-| **A** | ![Grade A](images/osu/GradeSmall-A.d785e824.svg) | Зелёный ранг |
-| **S** | ![Grade S](images/osu/GradeSmall-S.3b4498a9.svg) | Золотая S |
-| **S (Silver)** | ![Grade S Silver](images/osu/GradeSmall-S-Silver.811ae28c.svg) | Серебрянная S |
-| **SS** | ![Grade SS](images/osu/GradeSmall-SS.a21de890.svg) | Золотая SS |
-| **SS (Silver)** | ![Grade SS Silver](images/osu/GradeSmall-SS-Silver.6681366c.svg) | Серебрянная SS |
+<table>
+<tr>
+<td rowspan="12" style="text-align: center; vertical-align: top; padding-right: 20px;">
+<img src="images/osu/avatar.jpg" alt="osu! Avatar" width="150"/>
+</td>
+<td colspan="2"><strong>Рейтинг</strong></td>
+</tr>
+<tr>
+<td><strong>Рейтинг в мире</strong></td>
+<td><span style="color: #D4A574;">#379 185</span> <small>(44 дня назад: #594 911)</small></td>
+</tr>
+<tr>
+<td><strong>Рейтинг в стране</strong></td>
+<td><span style="color: #D4A574;">#18 126</span></td>
+</tr>
+<tr>
+<td colspan="2"><strong>Основная статистика</strong></td>
+</tr>
+<tr>
+<td><strong>Медалей</strong></td>
+<td>24</td>
+</tr>
+<tr>
+<td><strong>pp (Performance Points)</strong></td>
+<td>2 415</td>
+</tr>
+<tr>
+<td><strong>Времени в игре</strong></td>
+<td>1d 4h 47m</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Детальная статистика</strong></td>
+</tr>
+<tr>
+<td><strong>Рейтинговые очки</strong></td>
+<td>444 775 955</td>
+</tr>
+<tr>
+<td><strong>Точность попаданий</strong></td>
+<td>89.72%</td>
+</tr>
+<tr>
+<td><strong>Количество игр</strong></td>
+<td>1 978</td>
+</tr>
+<tr>
+<td><strong>Всего очков</strong></td>
+<td>1 860 512 692</td>
+</tr>
+<tr>
+<td><strong>Всего попаданий</strong></td>
+<td>448 909</td>
+</tr>
+<tr>
+<td><strong>Попаданий в среднем за игру</strong></td>
+<td>226</td>
+</tr>
+<tr>
+<td><strong>Максимальное комбо</strong></td>
+<td>647</td>
+</tr>
+<tr>
+<td><strong>Просмотров записей игр другими</strong></td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Ранги</strong></td>
+</tr>
+<tr>
+<td>![Grade SS Silver](images/osu/GradeSmall-SS-Silver.6681366c.svg) <strong>SS (Silver)</strong></td>
+<td>0</td>
+</tr>
+<tr>
+<td>![Grade SS](images/osu/GradeSmall-SS.a21de890.svg) <strong>SS (Gold)</strong></td>
+<td>0</td>
+</tr>
+<tr>
+<td>![Grade S Silver](images/osu/GradeSmall-S-Silver.811ae28c.svg) <strong>S (Silver)</strong></td>
+<td>2</td>
+</tr>
+<tr>
+<td>![Grade S](images/osu/GradeSmall-S.3b4498a9.svg) <strong>S (Gold)</strong></td>
+<td>1</td>
+</tr>
+<tr>
+<td>![Grade A](images/osu/GradeSmall-A.d785e824.svg) <strong>A</strong></td>
+<td>30</td>
+</tr>
+</table>
