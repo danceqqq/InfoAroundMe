@@ -254,7 +254,7 @@ Information that I would like to share or save in one form or another
 <td rowspan="9" style="text-align: center; vertical-align: top; padding-right: 30px; min-width: 250px; width: 250px;">
 <img src="images/skyrim/rikaturl.jpg" alt="Character Avatar" width="250" style="border-radius: 8px; display: block;"/>
 </td>
-<td colspan="2"><strong>Сборка</strong></td>
+<td colspan="2" style="text-align: center;"><strong>Сборка</strong></td>
 </tr>
 <tr>
 <td><strong>Название</strong></td>
@@ -269,7 +269,7 @@ Information that I would like to share or save in one form or another
 <td>RFAB от 27.01.2026</td>
 </tr>
 <tr>
-<td colspan="2"><strong>Персонаж</strong></td>
+<td colspan="2" style="text-align: center;"><strong>Персонаж</strong></td>
 </tr>
 <tr>
 <td><strong>Имя персонажа</strong></td>
@@ -277,11 +277,11 @@ Information that I would like to share or save in one form or another
 </tr>
 <tr>
 <td><strong>Раса</strong></td>
-<td style="vertical-align: middle;"><img src="images/skyrim/argo.png" alt="Argonian" style="vertical-align: middle; margin-right: 8px;" width="32" height="32"/> Аргонианин</td>
+<td style="vertical-align: middle;"><img src="images/skyrim/argofixpng.png" alt="Argonian" style="vertical-align: middle; margin-right: 8px;" width="180" height="180"/> Аргонианин</td>
 </tr>
 <tr>
 <td><strong>Сложность</strong></td>
-<td style="vertical-align: middle;"><img src="images/skyrim/dovakin.png" alt="Dovahkiin" style="vertical-align: middle; margin-right: 8px;" width="32" height="32"/> Довакин</td>
+<td style="vertical-align: middle;"><img src="images/skyrim/dovakinfixpng.png" alt="Dovahkiin" style="vertical-align: middle; margin-right: 8px;" width="180" height="180"/> Довакин</td>
 </tr>
 <tr>
 <td><strong>Камень Хранитель</strong></td>
