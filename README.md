@@ -1,7 +1,11 @@
 # InfoAroundMe
 Information that I would like to share or save in one form or another
 
-## MySteamAcc
+<div align="center">
+
+# 🎮 MySteamAcc
+
+</div>
 
 **Username:** myangel  
 **Steam ID:** 76561199216268050  
@@ -214,7 +218,11 @@ Information that I would like to share or save in one form or another
 </tr>
 </table>
 
-## GameHuntrix
+<div align="center">
+
+# 🎯 GameHuntrix
+
+</div>
 
 ### NieR Replicant ver.1.22474487139...
 
