@@ -1,6 +1,219 @@
 # InfoAroundMe
 Information that I would like to share or save in one form or another
 
+## MySteamAcc
+
+**Username:** myangel  
+**Steam ID:** 76561199216268050  
+**Profile:** [SteamDB Calculator](https://steamdb.info/calculator/76561199216268050/?cc=us)
+
+<table>
+<tr>
+<td colspan="2"><strong>Основная информация</strong></td>
+</tr>
+<tr>
+<td><strong>Уровень аккаунта</strong></td>
+<td><span style="color: #D4A574;">45</span> (356 / 500 XP до следующего уровня)</td>
+</tr>
+<tr>
+<td><strong>Всего XP</strong></td>
+<td>12,856 XP</td>
+</tr>
+<tr>
+<td><strong>Регион</strong></td>
+<td>RU</td>
+</tr>
+<tr>
+<td><strong>Возраст аккаунта</strong></td>
+<td>4.2 years</td>
+</tr>
+<tr>
+<td colspan="2"><strong>💰 Стоимость и финансы</strong></td>
+</tr>
+<tr>
+<td><strong>Стоимость аккаунта (Lowest prices)</strong></td>
+<td><span style="color: #D4A574; font-size: 18px; font-weight: bold;">$888</span></td>
+</tr>
+<tr>
+<td><strong>Стоимость аккаунта (Today's prices)</strong></td>
+<td>🇺🇸 $3,666</td>
+</tr>
+<tr>
+<td><strong>Средняя цена игры</strong></td>
+<td>$16.81</td>
+</tr>
+<tr>
+<td><strong>Средняя цена за час</strong></td>
+<td>$0.36</td>
+</tr>
+<tr>
+<td><strong>Потрачено на сыгранные игры</strong></td>
+<td><span style="color: #D4A574;">$653</span></td>
+</tr>
+<tr>
+<td><strong>Потрачено на несыгранные игры</strong></td>
+<td>$221</td>
+</tr>
+<tr>
+<td><strong>Потрачено на другие продукты</strong></td>
+<td>$13</td>
+</tr>
+<tr>
+<td colspan="2"><strong>⏱️ Время в играх</strong></td>
+</tr>
+<tr>
+<td><strong>Всего времени в играх</strong></td>
+<td><span style="color: #D4A574; font-size: 18px; font-weight: bold;">8,495.1h</span></td>
+</tr>
+<tr>
+<td><strong>В платных играх</strong></td>
+<td>2,368.1h (27.9%)</td>
+</tr>
+<tr>
+<td><strong>В бесплатных играх</strong></td>
+<td>2,069.9h (24.4%)</td>
+</tr>
+<tr>
+<td><strong>В демо-версиях</strong></td>
+<td>17.3h (0.2%)</td>
+</tr>
+<tr>
+<td><strong>В других продуктах</strong></td>
+<td>4,039.8h (47.6%)</td>
+</tr>
+<tr>
+<td><strong>Среднее время на игру</strong></td>
+<td>60.2h</td>
+</tr>
+<tr>
+<td colspan="2"><strong>🎮 Игры</strong></td>
+</tr>
+<tr>
+<td><strong>Всего игр</strong></td>
+<td>293</td>
+</tr>
+<tr>
+<td><strong>Сыграно игр</strong></td>
+<td><span style="color: #D4A574;">141</span> (48%)</td>
+</tr>
+<tr>
+<td><strong>Не сыграно</strong></td>
+<td>152</td>
+</tr>
+<tr>
+<td colspan="2"><strong>📊 Распределение по времени</strong></td>
+</tr>
+<tr>
+<td><strong>25+ часов</strong></td>
+<td>31 игра</td>
+</tr>
+<tr>
+<td><strong>12-25 часов</strong></td>
+<td>17 игр</td>
+</tr>
+<tr>
+<td><strong>6-12 часов</strong></td>
+<td>9 игр</td>
+</tr>
+<tr>
+<td><strong>3-6 часов</strong></td>
+<td>24 игры</td>
+</tr>
+<tr>
+<td><strong>2-3 часа</strong></td>
+<td>17 игр</td>
+</tr>
+<tr>
+<td><strong>1-2 часа</strong></td>
+<td>9 игр</td>
+</tr>
+<tr>
+<td><strong>0-1 час</strong></td>
+<td>34 игры</td>
+</tr>
+<tr>
+<td><strong>Никогда не играл</strong></td>
+<td>152 игры</td>
+</tr>
+<tr>
+<td colspan="2"><strong>🏆 Топ-10 игр по времени</strong></td>
+</tr>
+<tr>
+<td><strong>1. Soundpad</strong></td>
+<td>1,704.3h | $4.99 | 94.56%</td>
+</tr>
+<tr>
+<td><strong>2. OBS Studio</strong></td>
+<td>805.3h | Free | 93.46%</td>
+</tr>
+<tr>
+<td><strong>3. Grand Theft Auto V Legacy</strong></td>
+<td>540.2h | No Price | 87.05%</td>
+</tr>
+<tr>
+<td><strong>4. Wallpaper Engine</strong></td>
+<td>510.1h | $4.99 | 97.27%</td>
+</tr>
+<tr>
+<td><strong>5. PUBG: BATTLEGROUNDS</strong></td>
+<td>482.4h | Free | 59.91%</td>
+</tr>
+<tr>
+<td><strong>6. AniCursor</strong></td>
+<td>458.8h | $1.59 | 80.44%</td>
+</tr>
+<tr>
+<td><strong>7. Counter-Strike 2</strong></td>
+<td>391.0h | Free | 86.04%</td>
+</tr>
+<tr>
+<td><strong>8. Bongo Cat</strong></td>
+<td>327.8h | Free | 96.13%</td>
+</tr>
+<tr>
+<td><strong>9. ShareX</strong></td>
+<td>271.0h | Free | 92.62%</td>
+</tr>
+<tr>
+<td><strong>10. tModLoader</strong></td>
+<td>200.0h | Free | 96.13%</td>
+</tr>
+<tr>
+<td colspan="2"><strong>🎖️ Значки</strong></td>
+</tr>
+<tr>
+<td><strong>Специальные значки</strong></td>
+<td>16</td>
+</tr>
+<tr>
+<td><strong>Обычные значки</strong></td>
+<td>52</td>
+</tr>
+<tr>
+<td><strong>Всего уровней значков</strong></td>
+<td>52</td>
+</tr>
+<tr>
+<td colspan="2"><strong>🔒 Статус аккаунта</strong></td>
+</tr>
+<tr>
+<td><strong>Game Bans</strong></td>
+<td style="color: #7CCE14;">✓ In good standing</td>
+</tr>
+<tr>
+<td><strong>VAC Bans</strong></td>
+<td style="color: #7CCE14;">✓ In good standing</td>
+</tr>
+<tr>
+<td><strong>Community Ban</strong></td>
+<td style="color: #7CCE14;">✓ In good standing</td>
+</tr>
+<tr>
+<td><strong>Trade Ban</strong></td>
+<td style="color: #7CCE14;">✓ In good standing</td>
+</tr>
+</table>
+
 ## GameHuntrix
 
 ### NieR Replicant ver.1.22474487139...
