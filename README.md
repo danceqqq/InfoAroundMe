@@ -164,6 +164,44 @@ Information that I would like to share or save in one form or another
 </tr>
 </table>
 
+<div align="center" id="fileshared">
+
+# 📁 Fileshared
+
+</div>
+
+<table style="width: 100%; max-width: 100%; border-collapse: collapse;">
+<tr>
+<td colspan="2" style="text-align: center; padding: 10px;">
+<img src="images/minecraft/logo.png" alt="Minecraft Logo" width="260" style="border-radius: 6px;"/>
+</td>
+</tr>
+<tr>
+<td><strong>Версия</strong></td>
+<td>Forge 1.20.1</td>
+</tr>
+<tr>
+<td><strong>Forge version</strong></td>
+<td>47.4.13</td>
+</tr>
+<tr>
+<td><strong>Mods</strong></td>
+<td>285 mods in total</td>
+</tr>
+<tr>
+<td><strong>Скачать</strong></td>
+<td>
+<a href=""><img src="images/minecraft/yandex-disk.svg" alt="Yandex Disk" width="44" height="44" style="vertical-align: middle; margin-right: 8px;"/></a>
+Yandex Disk
+</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-top: 8px;">
+<img src="images/minecraft/screenshot1.png" alt="Minecraft Screenshot" style="width: 100%; height: auto; max-height: 240px; object-fit: cover; border-radius: 8px;"/>
+</td>
+</tr>
+</table>
+
 <div align="center" id="gamehuntrix">
 
 # 🎯 GameHuntrix
@@ -232,44 +270,6 @@ Information that I would like to share or save in one form or another
 <tr>
 <td><strong>Камень Хранитель</strong></td>
 <td style="vertical-align: middle;"><img src="images/skyrim/warrior.png" alt="Warrior Stone" style="vertical-align: middle; margin-right: 8px;" width="180" height="180"/> Воин</td>
-</tr>
-</table>
-
-<div align="center" id="fileshared">
-
-# 📁 Fileshared
-
-</div>
-
-<table style="width: 100%; max-width: 100%; border-collapse: collapse;">
-<tr>
-<td colspan="2" style="text-align: center; padding: 10px;">
-<img src="images/minecraft/logo.png" alt="Minecraft Logo" width="260" style="border-radius: 6px;"/>
-</td>
-</tr>
-<tr>
-<td><strong>Версия</strong></td>
-<td>Forge 1.20.1</td>
-</tr>
-<tr>
-<td><strong>Forge version</strong></td>
-<td>47.4.13</td>
-</tr>
-<tr>
-<td><strong>Mods</strong></td>
-<td>285 mods in total</td>
-</tr>
-<tr>
-<td><strong>Скачать</strong></td>
-<td>
-<a href=""><img src="images/minecraft/yandex-disk.svg" alt="Yandex Disk" width="32" height="32" style="vertical-align: middle; margin-right: 8px;"/></a>
-Yandex Disk
-</td>
-</tr>
-<tr>
-<td colspan="2" style="padding-top: 8px;">
-<img src="images/minecraft/screenshot1.png" alt="Minecraft Screenshot" style="width: 100%; height: auto; max-height: 240px; object-fit: cover; border-radius: 8px;"/>
-</td>
 </tr>
 </table>
 
