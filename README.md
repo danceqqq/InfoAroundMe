@@ -2,7 +2,7 @@
 Information that I would like to share or save in one form or another
 
 <p align="center">
-  <a href="#mysteamacc">MySteamAcc</a> | <a href="#gamehuntrix">GameHuntrix</a> | <a href="#fileshared">Fileshared</a>
+  <a href="#mysteamacc">MySteamAcc</a> | <a href="#gamehuntrix">GameHuntrix</a> | <a href="#fileshared">Fileshared</a> | <a href="#wishlist">WishList</a>
 </p>
 
 <div align="center" id="mysteamacc">
@@ -534,5 +534,112 @@ Yandex Disk
 <strong>A</strong>
 </td>
 <td style="text-align: center; font-weight: bold; color: #D4A574;">176</td>
+</tr>
+</table>
+
+<div align="center" id="wishlist">
+
+# 🎁 WishList
+
+</div>
+
+<p align="center">
+<em>Все цены указаны в <img src="images/wishlist/kz.svg" alt="KZ" width="20" height="14" style="vertical-align: middle; margin: 0 4px;"/> ₸ (тенге)</em>
+</p>
+
+<table style="width: 100%; max-width: 100%; border-collapse: collapse;">
+<tr>
+<td style="width: 120px; padding: 10px; text-align: center; vertical-align: middle;"><strong>Обложка</strong></td>
+<td style="padding: 10px; vertical-align: middle;"><strong>Название игры</strong></td>
+<td style="width: 200px; padding: 10px; text-align: center; vertical-align: middle;"><strong>Цена</strong></td>
+<td style="width: 250px; padding: 10px; text-align: center; vertical-align: middle;"><strong>Статус</strong></td>
+</tr>
+<tr>
+<td style="padding: 10px; text-align: center; vertical-align: middle;">
+<img src="images/wishlist/DARK SOULS™ II Scholar of the First Sin.jpg" alt="Dark Souls II" width="100" height="140" style="border-radius: 6px; object-fit: cover;"/>
+</td>
+<td style="padding: 10px; vertical-align: middle;"><strong>DARK SOULS™ II: Scholar of the First Sin</strong></td>
+<td style="padding: 10px; text-align: center; vertical-align: middle;"><span style="color: #D4A574; font-weight: bold;">11 999₸</span></td>
+<td style="padding: 10px; text-align: center; vertical-align: middle;">-</td>
+</tr>
+<tr>
+<td style="padding: 10px; text-align: center; vertical-align: middle;">
+<img src="images/wishlist/DARK SOULS™ III.jpg" alt="Dark Souls III" width="100" height="140" style="border-radius: 6px; object-fit: cover;"/>
+</td>
+<td style="padding: 10px; vertical-align: middle;"><strong>DARK SOULS™ III</strong></td>
+<td style="padding: 10px; text-align: center; vertical-align: middle;"><span style="color: #D4A574; font-weight: bold;">17 999₸</span></td>
+<td style="padding: 10px; text-align: center; vertical-align: middle;">-</td>
+</tr>
+<tr>
+<td style="padding: 10px; text-align: center; vertical-align: middle;">
+<img src="images/wishlist/EldenRingNightReign.jpg" alt="Elden Ring NightReign" width="100" height="140" style="border-radius: 6px; object-fit: cover;"/>
+</td>
+<td style="padding: 10px; vertical-align: middle;"><strong>ELDEN RING: NightReign</strong></td>
+<td style="padding: 10px; text-align: center; vertical-align: middle;"><span style="color: #D4A574; font-weight: bold;">19 799₸</span></td>
+<td style="padding: 10px; text-align: center; vertical-align: middle;">-</td>
+</tr>
+<tr>
+<td style="padding: 10px; text-align: center; vertical-align: middle;">
+<img src="images/wishlist/Forza Horizon 6.jpg" alt="Forza Horizon 6" width="100" height="140" style="border-radius: 6px; object-fit: cover;"/>
+</td>
+<td style="padding: 10px; vertical-align: middle;"><strong>Forza Horizon 6</strong></td>
+<td style="padding: 10px; text-align: center; vertical-align: middle;"><span style="color: #D4A574; font-weight: bold;">30 000₸ - 52 100₸</span></td>
+<td style="padding: 10px; text-align: center; vertical-align: middle;"><small>Pre-order<br/>Available: 19 мая 2026 г.</small></td>
+</tr>
+<tr>
+<td style="padding: 10px; text-align: center; vertical-align: middle;">
+<img src="images/wishlist/Resident Evil 2.jpg" alt="Resident Evil 2" width="100" height="140" style="border-radius: 6px; object-fit: cover;"/>
+</td>
+<td style="padding: 10px; vertical-align: middle;"><strong>Resident Evil 2</strong></td>
+<td style="padding: 10px; text-align: center; vertical-align: middle;"><span style="color: #D4A574; font-weight: bold;">14 549₸</span></td>
+<td style="padding: 10px; text-align: center; vertical-align: middle;">-</td>
+</tr>
+<tr>
+<td style="padding: 10px; text-align: center; vertical-align: middle;">
+<img src="images/wishlist/Resident Evil 4.jpg" alt="Resident Evil 4" width="100" height="140" style="border-radius: 6px; object-fit: cover;"/>
+</td>
+<td style="padding: 10px; vertical-align: middle;"><strong>Resident Evil 4</strong></td>
+<td style="padding: 10px; text-align: center; vertical-align: middle;"><span style="color: #D4A574; font-weight: bold;">14 549₸</span></td>
+<td style="padding: 10px; text-align: center; vertical-align: middle;">-</td>
+</tr>
+<tr>
+<td style="padding: 10px; text-align: center; vertical-align: middle;">
+<img src="images/wishlist/Resident Evil 7 biohazard.jpg" alt="Resident Evil 7" width="100" height="140" style="border-radius: 6px; object-fit: cover;"/>
+</td>
+<td style="padding: 10px; vertical-align: middle;"><strong>Resident Evil 7: Biohazard</strong></td>
+<td style="padding: 10px; text-align: center; vertical-align: middle;"><span style="color: #D4A574; font-weight: bold;">7 273₸</span></td>
+<td style="padding: 10px; text-align: center; vertical-align: middle;">-</td>
+</tr>
+<tr>
+<td style="padding: 10px; text-align: center; vertical-align: middle;">
+<img src="images/wishlist/Resident Evil VILLAGE.jpg" alt="Resident Evil Village" width="100" height="140" style="border-radius: 6px; object-fit: cover;"/>
+</td>
+<td style="padding: 10px; vertical-align: middle;"><strong>Resident Evil Village</strong></td>
+<td style="padding: 10px; text-align: center; vertical-align: middle;"><span style="color: #D4A574; font-weight: bold;">14 549₸</span></td>
+<td style="padding: 10px; text-align: center; vertical-align: middle;">-</td>
+</tr>
+<tr>
+<td style="padding: 10px; text-align: center; vertical-align: middle;">
+<img src="images/wishlist/Resident Evil Requiem.jpg" alt="Resident Evil Requiem" width="100" height="140" style="border-radius: 6px; object-fit: cover;"/>
+</td>
+<td style="padding: 10px; vertical-align: middle;"><strong>Resident Evil Requiem</strong></td>
+<td style="padding: 10px; text-align: center; vertical-align: middle;"><span style="color: #D4A574; font-weight: bold;">25 465₸</span></td>
+<td style="padding: 10px; text-align: center; vertical-align: middle;"><small>Pre-order<br/>Available: 27 фев. 2026 г.</small></td>
+</tr>
+<tr>
+<td style="padding: 10px; text-align: center; vertical-align: middle;">
+<img src="images/wishlist/SILENT HILL f.jpg" alt="Silent Hill f" width="100" height="140" style="border-radius: 6px; object-fit: cover;"/>
+</td>
+<td style="padding: 10px; vertical-align: middle;"><strong>SILENT HILL f</strong></td>
+<td style="padding: 10px; text-align: center; vertical-align: middle;"><span style="color: #D4A574; font-weight: bold;">19 000₸</span></td>
+<td style="padding: 10px; text-align: center; vertical-align: middle;">-</td>
+</tr>
+<tr>
+<td style="padding: 10px; text-align: center; vertical-align: middle;">
+<img src="images/wishlist/Stellar Blade™.jpg" alt="Stellar Blade" width="100" height="140" style="border-radius: 6px; object-fit: cover;"/>
+</td>
+<td style="padding: 10px; vertical-align: middle;"><strong>Stellar Blade™</strong></td>
+<td style="padding: 10px; text-align: center; vertical-align: middle;"><span style="color: #D4A574; font-weight: bold;">27 999₸</span></td>
+<td style="padding: 10px; text-align: center; vertical-align: middle;">-</td>
 </tr>
 </table>
